@@ -1,0 +1,38 @@
+_id: a510ea9f-5dd4-4ed1-ab61-a355896552b1
+name: test-formify
+description: ""
+rootAction: 22e09851-548d-40e1-87e3-235854268de7
+shortName: ""
+components:
+  - d309a88b-ed8f-4a49-b602-9d8ae093fb3c
+unlinkedFields: []
+formSettings:
+  customUrls:
+    cdn: ""
+    api: ""
+  stepper:
+    keysToDisableNavigation: []
+    disabledSteps: []
+    steps: []
+  allowedDomains: []
+isLive: true
+isTemplate: false
+company: 42e1b7d6-1755-4d74-aa8e-df8078ddc3eb
+users:
+  - 18a98ad3-8f60-42a1-b02f-899df50ce8ab
+stagingState: draft
+ranMigrations:
+  - 20220110200338-deleteDuplicates.js
+  - 20220111103009-mustacheExpressions.js
+  - 20220211105753-forms_publishing.js
+  - 20220214152546-forms_publishing.js
+  - 20220426111554-set_ran_migrations.js
+  - 20220506122750-add_imageAssetId_to_fields.js
+metaModels: []
+swaggerApi: []
+metaModelsFieldsData: []
+bomFields: []
+bomFlowActions: []
+createdAt: 2023-12-19T07:57:03.681Z
+formGroupId: 3c899879-78ef-4de2-88fe-a237db91b2a3
+id: a510ea9f-5dd4-4ed1-ab61-a355896552b1

@@ -1,0 +1,75 @@
+- _id: 83db28b9-603b-4c80-908a-3530bb697ca3
+  fieldId: d309a88b-ed8f-4a49-b602-9d8ae093fb3c
+  form: a510ea9f-5dd4-4ed1-ab61-a355896552b1
+  components:
+    - db6ec6c1-35de-4aa8-9f9f-a473202c0f70
+  ranMigrations:
+    - 20220110200338-deleteDuplicates.js
+    - 20220111103009-mustacheExpressions.js
+    - 20220211105753-forms_publishing.js
+    - 20220214152546-forms_publishing.js
+    - 20220426111554-set_ran_migrations.js
+    - 20220506122750-add_imageAssetId_to_fields.js
+  type: panel
+  isDialog: false
+  label: View-555
+  width: 730
+  createdAt: 2023-12-19T07:57:04.024Z
+- _id: 14941cee-ef7f-4a81-b94e-e2fa151e4638
+  fieldId: db6ec6c1-35de-4aa8-9f9f-a473202c0f70
+  form: a510ea9f-5dd4-4ed1-ab61-a355896552b1
+  components:
+    - e98efce8-bc0c-4964-bed8-d01a21c0b914
+  pageId: d309a88b-ed8f-4a49-b602-9d8ae093fb3c
+  ranMigrations:
+    - 20220110200338-deleteDuplicates.js
+    - 20220111103009-mustacheExpressions.js
+    - 20220211105753-forms_publishing.js
+    - 20220214152546-forms_publishing.js
+    - 20220426111554-set_ran_migrations.js
+    - 20220506122750-add_imageAssetId_to_fields.js
+  key: section-758
+  type: section
+  parentId: d309a88b-ed8f-4a49-b602-9d8ae093fb3c
+  innerSection: false
+  createdAt: 2023-12-19T07:57:06.434Z
+- _id: 571a1287-51ab-44d9-9263-9409aeccf50c
+  fieldId: e98efce8-bc0c-4964-bed8-d01a21c0b914
+  form: a510ea9f-5dd4-4ed1-ab61-a355896552b1
+  components:
+    - 989a7162-ec0f-406b-a9cb-cc9bf596a0f7
+  pageId: d309a88b-ed8f-4a49-b602-9d8ae093fb3c
+  ranMigrations:
+    - 20220110200338-deleteDuplicates.js
+    - 20220111103009-mustacheExpressions.js
+    - 20220211105753-forms_publishing.js
+    - 20220214152546-forms_publishing.js
+    - 20220426111554-set_ran_migrations.js
+    - 20220506122750-add_imageAssetId_to_fields.js
+  type: column
+  key: column-974
+  parentId: db6ec6c1-35de-4aa8-9f9f-a473202c0f70
+  responsiveWidth:
+    xs: 12
+    sm: 12
+    md: 12
+  createdAt: 2023-12-19T07:57:06.435Z
+- _id: b4298e6f-990d-4cee-a6fb-673f795daeca
+  fieldId: 989a7162-ec0f-406b-a9cb-cc9bf596a0f7
+  form: a510ea9f-5dd4-4ed1-ab61-a355896552b1
+  components: []
+  pageId: d309a88b-ed8f-4a49-b602-9d8ae093fb3c
+  ranMigrations:
+    - 20220110200338-deleteDuplicates.js
+    - 20220111103009-mustacheExpressions.js
+    - 20220211105753-forms_publishing.js
+    - 20220214152546-forms_publishing.js
+    - 20220426111554-set_ran_migrations.js
+    - 20220506122750-add_imageAssetId_to_fields.js
+  key: textfield-320
+  type: textfield
+  parentId: e98efce8-bc0c-4964-bed8-d01a21c0b914
+  innerSection: true
+  inputType: text
+  createdAt: 2023-12-19T07:57:09.503Z
+  placeholder: Hello world
